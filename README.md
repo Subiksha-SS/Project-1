@@ -1,4 +1,5 @@
 # Crime in LA City from 2020 to 2023
+### Frequency of crimes occurred during different time frames throughout the day from 2020 to 2023 
 The historian bar chart and density plot represent the frequency of crimes that occurred during different time frames throughout the day for 2020-2023. The x-axis is divided into four bins representing night, morning, afternoon, and evening, while the y-axis shows the frequency of crimes for each time frame. The density plot complements the bar chart by showing the distribution of crime frequencies across the time frames. It provides a visual representation of how the data is distributed and helps to highlight the peak period during the afternoon.
 
 During the night, the frequency of crimes was relatively low, indicating that fewer incidents occurred during this time period. As the day progressed, the frequency of crimes started to increase from morning to afternoon. The most frequent and repeatable time for crimes was during the afternoon, suggesting that this was a peak period for criminal activity.
