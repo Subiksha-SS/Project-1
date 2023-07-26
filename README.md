@@ -5,7 +5,9 @@ https://docs.google.com/presentation/d/1zU02RvmrWdmfK9yYdLWom6uCF_noi7Oslv3JyWNO
 
 ## Motivating Questions for analysis
 What is the trend in crime during different times of day, split evenly between 4 brackets - Morning, Afternoon, Evening, Night.
+
 Does age, sex, or racial descent play a factor in the occurance of crime, whether its violent or non-violent
+
 Where is crime committed (its concentation) 
 
 
