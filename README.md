@@ -28,6 +28,12 @@ The historian bar and density plot are also provided for each year of 2020,2021,
 ### Visualising crime by racial descent
 Our dataset breaks down the victims of crime into 19 separate racial categories. In order to make our visualisations more tractable we reduced these to 8 groupings; this would also allow us to see more clearly if crimes against those of Asian ethnicity was especially pronounced during the COVID period, as the original data contained several different Asian ethnicities. We used pie charts and bar charts for each year to try and identify any changes in composition of crimes by racial descent. We found that the composition in question stayed stable for the period of study under analysis and that there were no major spikes in crime against a particular ethnic group. We used US census data for the city of Los Angeles when looking for these kinds of discrepancies.  
 
+### Visualising crime by age and sex
+### Age
+Our dataset has victims from 2 to 99 years of age. The ages were put into 10 bins to help visual and concise the data to work with. Bar graphs for each year (2020 - 2023) were created to display the number of victims in each age group. Scatter plots were created for each year (2020 - 2023) and linear regression analysis was performed on them to determine if there is any correlation between the age and the number of victims of crime. Graphs were created for each year to see if there were any changes in victim age through the 3.5 years (Covid period).
+
+### Sex
+The data set contains victims of 3 different sex, Male, Female and Unknown. The victims based on sex were visualized in pie charts for each year to see if a particular sex is more likely to be a victim of crime, specifically females. The pie charts showed that there is an almost equal ratio of male and female victims and there is no significant difference between them.
 
 
 ### Visualising crime by location
