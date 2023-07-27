@@ -37,7 +37,7 @@ The data set contains victims of 3 different sex, Male, Female and Unknown. The 
 
 
 ### Visualising crime by location
-Within the Ryan_Location_Analysis python notebook file, the location analysis will can be seen. Our group decided to produce a heat map to visualize the concentration of crime in LA. 
+Within the Ryan_Location_Analysis python notebook file, the location analysis can be seen. Our group decided to produce a heat map to visualize the concentration of crime in LA. Below is a list of articles that discuss dangerous places in LA, many noted areas align with what our heat maps output. Notable high crime areas are: Downtown LA (Wholesale District and Fashion District), Hollywood and San Pedro (the southern part of LA). This information could used in many ways, probably most important for tourist reasons. 
 
 https://propertyclub.nyc/article/most-dangerous-neighborhoods-in-los-angeles
 
