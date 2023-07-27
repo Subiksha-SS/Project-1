@@ -3,6 +3,9 @@
 Link to Presentation:
 https://docs.google.com/presentation/d/1zU02RvmrWdmfK9yYdLWom6uCF_noi7Oslv3JyWNOEbI/edit?usp=sharing
 
+Proposal:
+https://docs.google.com/document/d/1FH5vq60n10oHu_jidO0zDWTzES09IgJF1iqjuCSgAn4/edit
+
 ## Motivating Questions for analysis
 What is the trend in crime during different times of day, split evenly between 4 brackets - Morning, Afternoon, Evening, Night.
 
@@ -28,3 +31,10 @@ Our dataset breaks down the victims of crime into 19 separate racial categories.
 
 
 ### Visualising crime by location
+Within the Ryan_Location_Analysis python notebook file, the location analysis will can be seen. Our group decided to produce a heat map to visualize the concentration of crime in LA. 
+
+https://propertyclub.nyc/article/most-dangerous-neighborhoods-in-los-angeles
+
+https://dwellics.com/california/safety-in-san-pedro
+
+https://www.aerlawgroup.com/blog/what-are-the-safest-and-most-dangerous-neighborhoods-in-los-angeles/
